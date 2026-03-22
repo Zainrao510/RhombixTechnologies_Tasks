@@ -53,7 +53,9 @@ cd RhombixTechnologies_Tasks
 
 ### 3️⃣ Install dependencies
 
+cd frontend
 npm install
+npm run dev
 
 ### 4️⃣ Run the development server
 

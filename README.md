@@ -45,7 +45,7 @@ Follow these steps to run the project locally:
 
 ### 1️⃣ Clone the repository
 
-git clone https://github.com/your-username/RhombixTechnologies_Tasks.git
+git clone https://github.com/Zainrao510/RhombixTechnologies_Tasks.git
 
 ### 2️⃣ Navigate to project folder
 
